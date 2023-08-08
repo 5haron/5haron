@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  About Me
 Hi there! My name is Sharon and I am currently a third-year student at Carnegie Mellon University pursuing a Bachelor's Degree in Electrical and Computer Engineering with a minor in Human-Computer Interaction. 
 
-In addition to programming, I enjoy honing my photography skills, cooking new recipes, and binging seasons of Criminal Minds. 
+In addition to programming, I enjoy honing my photography skills, traveling to new cities, cooking new recipes, and binging seasons of Criminal Minds. 
 
 ## 💐 Experience
 
